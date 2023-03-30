@@ -1,0 +1,1 @@
+# ChatGpt-prompts-for-work
